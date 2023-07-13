@@ -16,8 +16,9 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusBraga10&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusBraga10&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusBraga10/SEUREPOSITORIO)
