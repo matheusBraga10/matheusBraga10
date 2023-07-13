@@ -1,4 +1,13 @@
-# Matheus Felipe Braga
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Matheus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=87CEFA&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+</div>
+
+[![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
