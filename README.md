@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/matheusfelipebrga/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](matheusfbraga10@gmail.com)
+[![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone)]([matheusfbraga10@gmail.com](https://web.dio.me/users/matheusfbraga10?tab=skills))
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
