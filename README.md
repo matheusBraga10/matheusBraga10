@@ -1,4 +1,3 @@
-
 <a href="https://github.com/felmateos#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=270&section=header&fontAlignY=35&text=Matheus+Felipe+Braga&desc=%20Data%20Science&fontSize=60&fontColor=00d6ee#gh-dark-mode-only" />
 </a>
@@ -10,6 +9,11 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/matheusfelipebrga/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](matheusfbraga10@gmail.com)
 [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone)]([matheusfbraga10@gmail.com](https://web.dio.me/users/matheusfbraga10?tab=skills))
+
+<!-- Texto Open to Work -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work" alt="Typing SVG">
+</a>
 
 <div align="center">  
   <img width="49%" height="100px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
