@@ -16,7 +16,7 @@
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/matheusBraga10/matheusBraga10/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -27,19 +27,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusBraga10&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-
 
 ## Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-<div align="right">
-  <img src="J4o (1).gif" alt="" width="50%" height=""; style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/>
-</div>
-<p align="right">
-</p>
+
 
 ## Feedback
 Se você tiver algum feedback, por favor nos deixe saber por meio de matheusfbraga10@gmail.com
