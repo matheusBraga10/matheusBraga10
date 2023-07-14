@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-## Conecte-se comigo
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/matheusfelipebrga/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](matheusfbraga10@gmail.com)
@@ -20,24 +20,19 @@
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/matheusBraga10/matheusBraga10/blob/output/github-contribution-grid-snake.svg)
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,c,cpp,linux,git,github,vscode,css,html,js,php,md," />
+  </a>
+</p>
 
-## Habilidades
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
-
-
-## Minhas Contribuições
+## My Contribuitions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
 ## Feedback
-Se você tiver algum feedback, por favor nos deixe saber por meio de matheusfbraga10@gmail.com
+Get in touch via matheusfbraga10@gmail.com
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=100&section=footer"/>
