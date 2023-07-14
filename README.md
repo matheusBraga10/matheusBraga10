@@ -12,8 +12,8 @@
 [![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone)]([matheusfbraga10@gmail.com](https://web.dio.me/users/matheusfbraga10?tab=skills))
 
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+  <img width="49%" height="100px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
+  <img width="41%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
