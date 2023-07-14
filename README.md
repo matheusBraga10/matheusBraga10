@@ -1,7 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=120&section=header"/>
+<a href="https://github.com/felmateos#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=270&section=header&fontAlignY=35&text=Matheus+Felipe+Braga&desc=%20Data%20Science&fontSize=60&fontColor=00d6ee#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/felmateos#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f02afc&height=270&section=header&fontAlignY=35&text=felmateos&desc=AI,%20Data-Science,%20Front-end,%20Android%20and%20UI\UX%20Design&fontSize=90&fontColor=942994#gh-light-mode-only" />
+</a>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Matheus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
