@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="J4o (1).gif" alt="" width="100%" height="20%"; style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/>
-</div>
-<p align="center">
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Matheus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Matheus;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
@@ -19,6 +16,7 @@
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -37,6 +35,13 @@
 ## Minhas Contribuições
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
+<div align="right">
+  <img src="J4o (1).gif" alt="" width="50%" height=""; style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/>
+</div>
+<p align="right">
+</p>
 
 ## Feedback
 Se você tiver algum feedback, por favor nos deixe saber por meio de matheusfbraga10@gmail.com
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=120&section=footer"/>
