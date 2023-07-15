@@ -27,6 +27,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
+      
 
       # Para as atualizações.
       - name: Push changes
@@ -43,3 +44,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
