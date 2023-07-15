@@ -28,7 +28,7 @@
 ## My Contribuitions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/matheusBraga10/matheusBraga10/blob/output/github-contribution-grid-snake.svg)<br>
+![Snake animation](https://github.com/matheusBraga10/matheusBraga10/blob/main/.github/workflows/main.yml)<br>
 
 ## Feedback
 <p align="right"/> Get in touch via <a href="matheusfbraga10@gmail.com">matheusfbraga10@gmail.com</a>
