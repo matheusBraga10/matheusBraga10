@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="100px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
-  <img width="41%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
+  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -28,7 +28,7 @@
 ## My Contribuitions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/MarcosFajoli/matheusBraga10/blob/output/github-contribution-grid-snake.svg)<br>
+![Snake animation](https://github.com/matheusBraga10/matheusBraga10/blob/output/github-contribution-grid-snake.svg)<br>
 
 ## Feedback
 <p align="right"/> Get in touch via <a href="matheusfbraga10@gmail.com">matheusfbraga10@gmail.com</a>
