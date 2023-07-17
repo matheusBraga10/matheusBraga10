@@ -15,7 +15,7 @@
   <a href="https://web.dio.me/users/matheusfbraga10?tab=skills" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone"/> 
   </a>
-  <a href="matheusfbraga10@gmail.com" target="_blank" rel="external">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new/matheusfbraga10@gmail.com" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/> 
   </a>
 </div>
@@ -41,6 +41,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF)](https://git.io/streak-stats)
 
 ## Feedback
-<p align="right"/> Get in touch via <a href="matheusfbraga10@gmail.com">matheusfbraga10@gmail.com</a>
-
+<p align="right"/> Get in touch via 
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new/matheusfbraga10@gmail.com" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/> 
+  </a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=100&section=footer"/>
