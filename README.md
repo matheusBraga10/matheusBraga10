@@ -5,10 +5,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-f-braga/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/matheusfelipebrga/)
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](matheusfbraga10@gmail.com)
-[![DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone)]([matheusfbraga10@gmail.com](https://web.dio.me/users/matheusfbraga10?tab=skills))
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-f-braga/" target="_blank" rel="external"></a>
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/> 
+  <a href="https://www.discord.com/in/matheusfelipebrga/" target="_blank" rel="external"></a>
+  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"/> 
+  <a href="https://web.dio.me/users/matheusfbraga10?tab=skills" target="_blank" rel="external"></a>
+  <img src="https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone"/> 
+  <a href="matheusfbraga10@gmail.com" target="_blank" rel="external"></a>
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/> 
+</div>
+
+
 
 
 <div align="center">  
