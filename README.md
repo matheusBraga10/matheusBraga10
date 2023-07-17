@@ -34,7 +34,8 @@
 </p>
 
 ## My Contribuitions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF" alt="Matheus github contribuitions" /> 
 
 ## Feedback
 <p align="right"/> Get in touch via 
