@@ -6,14 +6,18 @@
 
 ## Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-f-braga/" target="_blank" rel="external"></a>
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/> 
-  <a href="https://www.discord.com/in/matheusfelipebrga/" target="_blank" rel="external"></a>
-  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"/> 
-  <a href="https://web.dio.me/users/matheusfbraga10?tab=skills" target="_blank" rel="external"></a>
-  <img src="https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone"/> 
-  <a href="matheusfbraga10@gmail.com" target="_blank" rel="external"></a>
-  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/> 
+  <a href="https://www.linkedin.com/in/matheus-f-braga/" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/> 
+  </a>
+  <a href="https://www.discord.com/in/matheusfelipebrga/" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"/> 
+  </a>
+  <a href="https://web.dio.me/users/matheusfbraga10?tab=skills" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&logo=digitalinovationone"/> 
+  </a>
+  <a href="matheusfbraga10@gmail.com" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/> 
+  </a>
 </div>
 
 
