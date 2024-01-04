@@ -27,12 +27,47 @@
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
+### JAVA
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,eclipse,hibernate,maven,c,cpp,mysql,sqlite,postgres,mongodb,css,html,js,php,md,linux,git,github,gitlab,jenkins,vscode," />
+    <img src="https://skillicons.dev/icons?i=java,eclipse,hibernate,maven" />
   </a>
 </p>
 
+### Python
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py," />
+  </a>
+</p>
+
+### C
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
+
+### Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+  </a>
+</p>
+
+### Dev Web
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,php,md" />
+  </a>
+</p>
+
+### Others
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,jenkins,vscode," />
+  </a>
+</p>
 ## My Contribuitions
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF" alt="Matheus github contribuitions" /> 
