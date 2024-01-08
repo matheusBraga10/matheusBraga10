@@ -65,7 +65,7 @@
 ### Others
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,jenkins,vscode," />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,gitlab,jenkins,postman," />
   </a>
 </p>
 ## My Contribuitions
