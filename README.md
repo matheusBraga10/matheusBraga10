@@ -37,7 +37,14 @@
 ### Python
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py," />
+    <img src="https://skillicons.dev/icons?i=py" />
+    <img width=50 src="https://matplotlib.org/_static/images/documentation.svg" />
+    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" />
+    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" />
+    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" />
+    <img width=50 src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" />
+    <img width=50 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" />
   </a>
 </p>
 
