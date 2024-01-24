@@ -74,7 +74,8 @@
 ### Others
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,gitlab,jenkins,postman," />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,postman,jenkins,github,gitlab,git" />
+    <img width= 50 src="https://git-fork.com/images/logo.png"/>
   </a>
 </p>
 ## My Contribuitions
