@@ -20,8 +20,10 @@
   </a>
 </div>
 <div align="center">  
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&size_weight=0.5&count_weight=0.5&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="38%" height="250px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
+
+  <img width="25%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&size_weight=0&count_weight=1&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Most used languages by Commits"/>
+  <img width="25%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&size_weight=1&count_weight=0&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Most used languages by Size"/>
 </div>
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
