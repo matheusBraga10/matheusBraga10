@@ -29,6 +29,52 @@
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
+<h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h2>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px"> 
+        <img src="https://img.shields.io/badge/HTML-0090a1" /> 
+        <img src="https://img.shields.io/badge/CSS-0090a1" />
+        <img src="https://img.shields.io/badge/JavaScript-0090a1" /> 
+        <img src="https://img.shields.io/badge/Swing-0090a1" /> 
+        <img src="https://img.shields.io/badge/TKinter-0090a1" />
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Python-0090a1" />  
+        <img src="https://img.shields.io/badge/Pandas-0090a1" /> 
+        <img src="https://img.shields.io/badge/Numpy-0090a1" /> 
+        <img src="https://img.shields.io/badge/PHP-0090a1" /> 
+      </td>
+      <td valign="center" align="center" width="300px"> 
+        <img src="https://img.shields.io/badge/MySQL-0090a1" /> 
+        <img src="https://img.shields.io/badge/NoSQL-0090a1" /> 
+        <img src="https://img.shields.io/badge/MongoDB-0090a1" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-0090a1" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Data Science<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+      </td>
+
+  </table>
+</div>
+
+
+
+
+
 ### JAVA
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,7 +126,9 @@
     <img width= 50 src="https://git-fork.com/images/logo.png"/>
   </a>
 </p>
+
 ## My Contribuitions
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=matheusBraga10&theme=bear&background=000&border=fff&dates=FFF" alt="Matheus github contribuitions" /> 
 
