@@ -3,8 +3,80 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+## Skills
+<h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> </h2>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px"> 
+        <img src="https://img.shields.io/badge/HTML-0090a1" /> 
+        <img src="https://img.shields.io/badge/CSS-0090a1" />
+        <img src="https://img.shields.io/badge/JavaScript-0090a1" /> 
+        <img src="https://img.shields.io/badge/Swing-0090a1" /> 
+        <img src="https://img.shields.io/badge/TKinter-0090a1" />
+        <img src="https://img.shields.io/badge/Markdown-0090a1" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Python-0090a1" />  
+        <img src="https://img.shields.io/badge/Apache_Hadoop-0090a1" />
+        <img src="https://img.shields.io/badge/Apache_Spark-0090a1" />
+        <img src="https://img.shields.io/badge/OpenCV-0090a1" />  
+        <img src="https://img.shields.io/badge/Numpy-0090a1" />
+        <img src="https://img.shields.io/badge/Pandas-0090a1" /> 
+        <img src="https://img.shields.io/badge/JAVA-0090a1" /> 
+        <img src="https://img.shields.io/badge/Hibernate-0090a1" /> 
+        <img src="https://img.shields.io/badge/Maven-0090a1" />  
+        <img src="https://img.shields.io/badge/PHP-0090a1" />
+        <img src="https://img.shields.io/badge/C-0090a1" />
+        <img src="https://img.shields.io/badge/C++-0090a1" />   
+      </td>
+      <td valign="center" align="center" width="300px"> 
+        <img src="https://img.shields.io/badge/MySQL-0090a1" /> 
+        <img src="https://img.shields.io/badge/NoSQL-0090a1" /> 
+        <img src="https://img.shields.io/badge/MongoDB-0090a1" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-0090a1" /> 
+        <img src="https://img.shields.io/badge/SQLite-0090a1" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Tools<b></td>
+      <td valign="center" width="100px"><b>Data Science<b></td>
+    </tr>
+    <tr>
+    <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Eclipse-0090a1" />
+        <img src="https://img.shields.io/badge/VScode-0090a1" /> 
+        <img src="https://img.shields.io/badge/Linux-0090a1" /> 
+        <img src="https://img.shields.io/badge/Git-0090a1" /> 
+        <img src="https://img.shields.io/badge/GitLab-0090a1" />
+        <img src="https://img.shields.io/badge/GitHub-0090a1" /> 
+        <img src="https://img.shields.io/badge/Git_Fork-0090a1" />  
+        <img src="https://img.shields.io/badge/Jenking-0090a1" /> 
+        <img src="https://img.shields.io/badge/Postman-0090a1" />  
+      </td>
+    <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Plotly-0090a1" />
+        <img src="https://img.shields.io/badge/MatplotLib-0090a1" /> 
+        <img src="https://img.shields.io/badge/Seaborn-0090a1" /> 
+        <img src="https://img.shields.io/badge/Scikit_Learn-0090a1" />   
+      </td>
+    </tr>
+
+  </table>
+</div>
+
+#
 
 ## Connect with me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-f-braga/" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"/> 
@@ -28,104 +100,6 @@
 
 [![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusBraga10&bg_color=0d1117&color=FFF&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Skills
-<h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h2>
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Dev<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px"> 
-        <img src="https://img.shields.io/badge/HTML-0090a1" /> 
-        <img src="https://img.shields.io/badge/CSS-0090a1" />
-        <img src="https://img.shields.io/badge/JavaScript-0090a1" /> 
-        <img src="https://img.shields.io/badge/Swing-0090a1" /> 
-        <img src="https://img.shields.io/badge/TKinter-0090a1" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Python-0090a1" />  
-        <img src="https://img.shields.io/badge/Pandas-0090a1" /> 
-        <img src="https://img.shields.io/badge/Numpy-0090a1" /> 
-        <img src="https://img.shields.io/badge/PHP-0090a1" /> 
-      </td>
-      <td valign="center" align="center" width="300px"> 
-        <img src="https://img.shields.io/badge/MySQL-0090a1" /> 
-        <img src="https://img.shields.io/badge/NoSQL-0090a1" /> 
-        <img src="https://img.shields.io/badge/MongoDB-0090a1" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-0090a1" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Data Science<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-      </td>
-
-  </table>
-</div>
-
-
-
-
-
-### JAVA
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,hibernate,maven" />
-  </a>
-</p>
-
-### Python
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
-    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" />
-    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" />
-    <img width=50 src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" />
-    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" />
-    <img width=50 src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" />
-    <img width=50 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" />
-    <img width=50 src="https://matplotlib.org/_static/images/documentation.svg" />
-    <img width=50 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-    <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" />
-  </a>
-</p>
-
-### C
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
-  </a>
-</p>
-
-### Database
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
-  </a>
-</p>
-
-### Dev Web
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,php,md" />
-  </a>
-</p>
-
-### Others
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,postman,jenkins,github,gitlab,git" />
-    <img width= 50 src="https://git-fork.com/images/logo.png"/>
-  </a>
-</p>
 
 ## My Contribuitions
 
