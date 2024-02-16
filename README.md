@@ -3,7 +3,9 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
 ## Skills
+
 <h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> </h2>
 <div align="center" style="witdh:100%"> 
   <table>
