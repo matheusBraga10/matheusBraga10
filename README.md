@@ -42,7 +42,8 @@
         <img src="https://img.shields.io/badge/NoSQL-0090a1" /> 
         <img src="https://img.shields.io/badge/MongoDB-0090a1" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-0090a1" /> 
-        <img src="https://img.shields.io/badge/SQLite-0090a1" /> 
+        <img src="https://img.shields.io/badge/SQLite-0090a1" />
+        <img src="https://img.shields.io/badge/OracleSQL-0090a1" />
       </td>
     </tr>
   </table>
