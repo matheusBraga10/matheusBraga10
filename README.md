@@ -56,7 +56,10 @@
     <tr>
     <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Eclipse-0090a1" />
-        <img src="https://img.shields.io/badge/VScode-0090a1" /> 
+      <img src="https://img.shields.io/badge/Apache_NetBeans-0090a1" />
+        <img src="https://img.shields.io/badge/VScode-0090a1" />
+      <img src="https://img.shields.io/badge/Google_Colab-0090a1" />
+      <img src="https://img.shields.io/badge/PyCharm-0090a1" />
         <img src="https://img.shields.io/badge/Linux-0090a1" /> 
         <img src="https://img.shields.io/badge/Git-0090a1" /> 
         <img src="https://img.shields.io/badge/GitLab-0090a1" />
