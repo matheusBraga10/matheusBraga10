@@ -31,7 +31,9 @@
         <img src="https://img.shields.io/badge/Numpy-0090a1" />
         <img src="https://img.shields.io/badge/Pandas-0090a1" /> 
         <img src="https://img.shields.io/badge/JAVA-0090a1" /> 
-        <img src="https://img.shields.io/badge/Hibernate-0090a1" /> 
+        <img src="https://img.shields.io/badge/Hibernate-0090a1" />
+        <img src="https://img.shields.io/badge/JPA-0090a1" />
+        <img src="https://img.shields.io/badge/Criteria-0090a1" />
         <img src="https://img.shields.io/badge/Maven-0090a1" />
         <img src="https://img.shields.io/badge/Spring_Boot-0090a1" />
         <img src="https://img.shields.io/badge/PHP-0090a1" />
