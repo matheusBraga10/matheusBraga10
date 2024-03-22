@@ -30,7 +30,8 @@
         <img src="https://img.shields.io/badge/OpenCV-0090a1" />  
         <img src="https://img.shields.io/badge/Numpy-0090a1" />
         <img src="https://img.shields.io/badge/Pandas-0090a1" /> 
-        <img src="https://img.shields.io/badge/JAVA-0090a1" /> 
+        <img src="https://img.shields.io/badge/JAVA-0090a1" />
+        <img src="https://img.shields.io/badge/JPQL-0090a1" />
         <img src="https://img.shields.io/badge/Hibernate-0090a1" />
         <img src="https://img.shields.io/badge/JPA-0090a1" />
         <img src="https://img.shields.io/badge/Criteria-0090a1" />
