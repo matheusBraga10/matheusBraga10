@@ -104,7 +104,6 @@
 <div align="center">  
   <img width="38%" height="250px" src="https://github-readme-stats.vercel.app/api?username=matheusBraga10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Matheus github stats" /> 
 
-  <img width="25%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusBraga10&size_weight=0&count_weight=1&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Most used languages by Commits"/>
  
 </div>
 
