@@ -18,7 +18,9 @@
       <td valign="center" align="center" width="300px"> 
         <img src="https://img.shields.io/badge/HTML-0090a1" /> 
         <img src="https://img.shields.io/badge/CSS-0090a1" />
-        <img src="https://img.shields.io/badge/JavaScript-0090a1" /> 
+        <img src="https://img.shields.io/badge/JavaScript-0090a1" />
+        <img src="https://img.shields.io/badge/ZKFramework-0090a1" />
+        <img src="https://img.shields.io/badge/ReactNative-0090a1" />
         <img src="https://img.shields.io/badge/Swing-0090a1" /> 
         <img src="https://img.shields.io/badge/TKinter-0090a1" />
         <img src="https://img.shields.io/badge/Markdown-0090a1" /> 
@@ -36,6 +38,7 @@
         <img src="https://img.shields.io/badge/JPA-0090a1" />
         <img src="https://img.shields.io/badge/Criteria-0090a1" />
         <img src="https://img.shields.io/badge/Maven-0090a1" />
+        <img src="https://img.shields.io/badge/J2EE-0090a1" />
         <img src="https://img.shields.io/badge/Spring_Boot-0090a1" />
         <img src="https://img.shields.io/badge/PHP-0090a1" />
         <img src="https://img.shields.io/badge/C-0090a1" />
