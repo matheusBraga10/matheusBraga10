@@ -87,7 +87,7 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 
 ## Projetos em destaque
 
-- **[BigData-COVID19](https://github.com/matheusbraga10/Data-Science)**: Análise de dados COVID-19 com **SQL, Python, Spark e Hadoop**.
+- **[BigData-COVID19](https://github.com/matheusBraga10/Big-Data)**: Análise de dados COVID-19 com **SQL, Python, Spark e Hadoop**.
 - **[Secure-Mail-IoT](https://github.com/matheusbraga10/ProgramacaoDispositivosMoveisEmAndroid)**: App **Android** para sistema **IoT** seguro (NodeMCU + React Native + backend C).
 - **[Python Studies](https://github.com/matheusBraga10/python)**: Primeiros passos em **Python** com Jupyter Notebook.
 
