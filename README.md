@@ -16,24 +16,23 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 
 ## 🔥 Projetos Java (Destaque)
 
-[![JavaUTFPR](https://github-readme-stats.vercel.app/api/pin/?username=matheusBraga10&repo=JavaUTFPR&theme=radical&hide_border=true)](https://github.com/matheusBraga10/JavaUTFPR)
-[![JAVA](https://github-readme-stats.vercel.app/api/pin/?username=matheusBraga10&repo=JAVA&theme=radical&hide_border=true)](https://github.com/matheusBraga10/JAVA)
-[![JavaAPIs](https://github-readme-stats.vercel.app/api/pin/?username=matheusBraga10&repo=JavaAPIs&theme=radical&hide_border=true)](https://github.com/matheusBraga10/JavaAPIs)
-[![BigData](https://github-readme-stats.vercel.app/api/pin/?username=matheusBraga10&repo=Big-Data&theme=radical&hide_border=true)](https://github.com/matheusBraga10/Big-Data)
+[![JavaUTFPR](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JavaUTFPR&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JavaUTFPR)
+[![JAVA Core](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JAVA&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JAVA)
+[![JavaAPIs](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JavaAPIs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JavaAPIs)
+[![BigData](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=Big-Data&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/Big-Data)
 
-- **[JavaPOO](https://github.com/matheusBraga10/JavaPOO)**: Java POO - Programação Orientada a Objetos.
-- **[Java Core](https://github.com/matheusBraga10/JAVA)**: Minha Evolução em Java - Do Básico ao Enterprise.
-- **[Java UTFPR](https://github.com/matheusBraga10/JavaUTFPR)**: Pós-Graduação UTFPR - Tecnologias Java Enterprise.
-- **[Java APIs](https://github.com/matheusBraga10/JavaAPIs)**: Java REST APIs - Spring Boot + OpenAPI + JWT.
+- **[JavaPOO](https://github.com/matheusbraga10/JavaPOO)**: Java POO - Programação Orientada a Objetos.
+- **[Java Core](https://github.com/matheusbraga10/JAVA)**: Minha Evolução em Java - Do Básico ao Enterprise.
+- **[Java UTFPR](https://github.com/matheusbraga10/JavaUTFPR)**: Pós-Graduação UTFPR - Tecnologias Java Enterprise.
+- **[Java APIs](https://github.com/matheusbraga10/JavaAPIs)**: Java REST APIs - Spring Boot + OpenAPI + JWT.
 
 ## 🌟 Projetos em Destaque
 
-- **[BigData-COVID19](https://github.com/matheusBraga10/Big-Data)**: Big Data COVID-19 - Análise com Python & Spark.
-- **[Secure-Mail-IoT](https://github.com/matheusBraga10/ProgramacaoDispositivosMoveisEmAndroid)**: Secure-Mail-IoT: Sistema IoT Seguro com Biometria.
-- **[Python Studies](https://github.com/matheusBraga10/python)**: Python Fundamentals - Primeiros Passos.
+- **[BigData-COVID19](https://github.com/matheusbraga10/Big-Data)**: Big Data COVID-19 - Análise com Python & Spark.
+- **[Secure-Mail-IoT](https://github.com/matheusbraga10/ProgramacaoDispositivosMoveisEmAndroid)**: Secure-Mail-IoT: Sistema IoT Seguro com Biometria.
+- **[Python Studies](https://github.com/matheusbraga10/python)**: Python Fundamentals - Primeiros Passos.
 
 ## 🛠️ Skills
-
 
 <div align="center" style="width:100%"> 
   <table>
@@ -101,14 +100,16 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 ## 📊 Stats Premium
 
 <div align="center">
-  ![Matheus Stats](https://github-readme-stats.vercel.app/api?username=matheusbraga10&show_icons=true&theme=radical&hide_border=true&title_color=00d6ee&icon_color=00d6ee&text_color=fefefe&bg_color=0d1117)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbraga10&layout=compact&theme=radical&hide_border=true&title_color=00d6ee&text_color=fefefe&bg_color=0d1117)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbraga10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbraga10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-  [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusbraga10&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=matheusbraga10&theme=gruvbox&hide_border=true&bg_color=0d1117&color=00d6ee&line=00d6ee&point=00d6ee&area=true)
+  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusbraga10&stroke=ffffff&background=0d1117&ring=00d6ee&fire=00d6ee&currStreakNum=00d6ee&currStreakLabel=00d6ee&sideNums=00d6ee&sideLabels=00d6ee&dates=00d6ee"/>
+  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbraga10&theme=gruvbox&hide_border=true"/>
 </div>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=matheusbraga10&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Conecte-se comigo
 
