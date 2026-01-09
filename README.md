@@ -80,16 +80,16 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 
 ## Projetos Java
 
-- **[JavaPOO](https://github.com/matheusBraga10/JavaPOO)**: Programação Orientada a Objetos com Java (UTFPR).
-- **[Java Core](https://github.com/matheusBraga10/JAVA)**: Exercícios e estudos fundamentais de Java.
-- **[Java UTFPR](https://github.com/matheusBraga10/JavaUTFPR)**: Projetos acadêmicos da Pós-Graduação UTFPR.
-- **[Java APIs](https://github.com/matheusBraga10/JavaAPIs)**: Desenvolvimento de APIs REST com Java.
+- **[JavaPOO](https://github.com/matheusBraga10/JavaPOO)**: Java POO - Programação Orientada a Objetos.
+- **[Java Core](https://github.com/matheusBraga10/JAVA)**: Minha Evolução em Java - Do Básico ao Enterprise.
+- **[Java UTFPR](https://github.com/matheusBraga10/JavaUTFPR)**: Pós-Graduação UTFPR - Tecnologias Java Enterprise.
+- **[Java APIs](https://github.com/matheusBraga10/JavaAPIs)**: Java REST APIs - Spring Boot + OpenAPI + JWT.
 
 ## Projetos em destaque
 
-- **[BigData-COVID19](https://github.com/matheusBraga10/Big-Data)**: Análise de dados COVID-19 com **SQL, Python, Spark e Hadoop**.
-- **[Secure-Mail-IoT](https://github.com/matheusbraga10/ProgramacaoDispositivosMoveisEmAndroid)**: App **Android** para sistema **IoT** seguro (NodeMCU + React Native + backend C).
-- **[Python Studies](https://github.com/matheusBraga10/python)**: Primeiros passos em **Python** com Jupyter Notebook.
+- **[BigData-COVID19](https://github.com/matheusBraga10/Big-Data)**: Big Data COVID-19 - Análise com Python & Spark.
+- **[Secure-Mail-IoT](https://github.com/matheusbraga10/ProgramacaoDispositivosMoveisEmAndroid)**: Secure-Mail-IoT: Sistema IoT Seguro com Biometria.
+- **[Python Studies](https://github.com/matheusBraga10/python)**: Python Fundamentals - Primeiros Passos.
 
 ## 📫 Conecte-se comigo
 
