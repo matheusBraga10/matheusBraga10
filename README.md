@@ -6,16 +6,16 @@
 
 ## Sobre mim
 
-Desenvolvedor **Back-end Java** na PRODEMGE, com foco em sistemas governamentais de alta criticidade como o portal CAGEC (dezenas de milhares de usuários). 
+Desenvolvedor **Back-end Java Pleno** na PRODEMGE, com foco em sistemas governamentais de alta criticidade como o portal CAGEC (dezenas de milhares de usuários). [file:2]
 
-Experiência prática em **Spring Boot, Hibernate/JPA, Oracle, REST APIs** e integrações com **Azure Document Intelligence** para automação de análise documental, reduzindo 30% das análises manuais e otimizando captação de verbas públicas. 
+Experiência prática em **Spring Boot, Hibernate/JPA, Oracle, REST APIs** e integrações com **Azure Document Intelligence** para automação de análise documental, reduzindo 30% das análises manuais e otimizando captação de verbas públicas. [file:2]
 
-Pós-graduando em **Tecnologias Java** pela UTFPR e bacharel em Sistemas de Informação (Estácio, GPA 8,7). Projetos acadêmicos em Big Data (Spark/Hadoop) e IoT.
+Pós-graduando em **Tecnologias Java** pela UTFPR e bacharel em Sistemas de Informação (Estácio, GPA 8,7). Projetos acadêmicos em Big Data (Spark/Hadoop) e IoT. [file:2]
 
 ## Skills
 
 <h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> </h2>
-<div align="center" style="witdh:100%"> 
+<div align="center" style="width:100%"> 
   <table>
     <tr>
       <td valign="center" width="100px"><b>Backend</b></td>
@@ -71,11 +71,10 @@ Pós-graduando em **Tecnologias Java** pela UTFPR e bacharel em Sistemas de Info
         <img src="https://img.shields.io/badge/Big_Data_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
         <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/NodeMCU-F44336?style=for-the-badge&logo=arduino&logoColor=white" />   
       </td>
     </tr>
-
   </table>
 </div>
 
@@ -83,7 +82,7 @@ Pós-graduando em **Tecnologias Java** pela UTFPR e bacharel em Sistemas de Info
 
 - **[CAGEC-Demo](https://github.com/matheusbraga10/cagec-demo)**: Prova de conceito da automação do CAGEC com Spring Boot, Azure Document Intelligence, validação de documentos e REST APIs.   
 - **[BigData-COVID19](https://github.com/matheusbraga10/Data-Science)**: Análise de dados COVID-19 com SQL, Python, Spark e Hadoop. 
-- **[Secure-Mail-IoT](https://github.com/matheusbraga10/secure-mail-iot)**: Sistema IoT seguro com NodeMCU, C e React Native.   
+- **[Secure-Mail-IoT](https://github.com/matheusbraga10/ProgramacaoDispositivosMoveisEmAndroid)**: App Android mobile para sistema IoT seguro (NodeMCU + React Native + backend C). [attached_file:1]
 
 ## Connect with me
 
