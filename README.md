@@ -100,14 +100,16 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 ## 📊 Stats Premium
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbraga10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbraga10&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=matheusbraga10" alt="Trophy"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusbraga10&show_icons=true&theme=transparent&bg_color=0d1117&hide_border=true&title_color=00d6ee&text_color=fefefe&icon_color=00d6ee"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbraga10&layout=compact&theme=transparent&bg_color=0d1117&hide_border=true&title_color=00d6ee&text_color=fefefe&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusbraga10&stroke=ffffff&background=0d1117&ring=00d6ee&fire=00d6ee&currStreakNum=00d6ee&currStreakLabel=00d6ee&sideNums=00d6ee&sideLabels=00d6ee&dates=00d6ee"/>
-  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbraga10&theme=gruvbox&hide_border=true"/>
+  <img height="220" src="https://streak-stats.demolab.com?user=matheusbraga10&theme=radical&hide_border=true&background=0d1117&border=00d6ee"/>
+  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbraga10&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d6ee&line=00d6ee&point=00d6ee"/>
 </div>
+
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=matheusbraga10&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
