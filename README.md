@@ -16,10 +16,10 @@ Pós-graduando em **Tecnologias Java** pela **UTFPR** e bacharel em Sistemas de 
 
 ## 🔥 Projetos Java (Destaque)
 
-[![JavaUTFPR](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JavaUTFPR&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JavaUTFPR)
-[![JAVA Core](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JAVA&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JAVA)
-[![JavaAPIs](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=JavaAPIs&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/JavaAPIs)
-[![BigData](https://github-readme-stats.vercel.app/api/pin/?username=matheusbraga10&repo=Big-Data&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d6ee&icon_color=00d6ee)](https://github.com/matheusbraga10/Big-Data)
+[![JavaUTFPR](https://img.shields.io/badge/JavaUTFPR-00D6EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusbraga10/JavaUTFPR)
+[![JAVA Core](https://img.shields.io/badge/JAVA%20Core-00D6EE?style=for-the-badge&logo=java&logoColor=white)](https://github.com/matheusbraga10/JAVA)
+[![JavaAPIs](https://img.shields.io/badge/JavaAPIs-00D6EE?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/matheusbraga10/JavaAPIs)
+[![BigData](https://img.shields.io/badge/Big--Data-00D6EE?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/matheusbraga10/Big-Data)
 
 - **[JavaPOO](https://github.com/matheusbraga10/JavaPOO)**: Java POO - Programação Orientada a Objetos.
 - **[Java Core](https://github.com/matheusbraga10/JAVA)**: Minha Evolução em Java - Do Básico ao Enterprise.
