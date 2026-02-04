@@ -1,5 +1,5 @@
-<a href="https://github.com/matheusbraga10#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=270&section=header&fontAlignY=35&text=Matheus+Felipe+Braga&fontSize=60&fontColor=00d6ee#gh-dark-mode-only" />
+<a href="https://github.com/matheusbraga1">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=270&section=header&fontAlignY=35&text=Matheus+Felipe+Braga&fontSize=60&fontColor=00d6ee#
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Back-end+Java;Spring+Boot+%7C+JPA+%7C+REST;PRODEMGE+%7C+CAGEC+Automation;P%C3%B3s+UTFPR+Tecnologias+Java)](https://git.io/typing-svg)
