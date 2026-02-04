@@ -1,6 +1,4 @@
-<a href="https://github.com/matheusbraga1">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=270&section=header&fontAlignY=35&text=Matheus+Felipe+Braga&fontSize=60&fontColor=00d6ee#
-</a>
+![933fd79795eb9](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6ee&size=35&center=true&vCenter=true&width=1000&lines=Back-end+Java;Spring+Boot+%7C+JPA+%7C+REST;PRODEMGE+%7C+CAGEC+Automation;P%C3%B3s+UTFPR+Tecnologias+Java)](https://git.io/typing-svg)
 
@@ -63,4 +61,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d6ee&height=100&section=footer"/>
+
